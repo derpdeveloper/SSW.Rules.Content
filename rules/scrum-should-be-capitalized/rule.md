@@ -31,6 +31,8 @@ Other Scrum terms should also be capitalized:
 * Sprint Planning
 * Sprint Retrospective
 * Sprint Retro
+* Spec Review
+* Specification Review
 
 ::: greybox
 SSW CodeAuditor enforces this rule <https://codeauditor.com/rules>
